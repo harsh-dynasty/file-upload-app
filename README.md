@@ -6,4 +6,4 @@ Steps to initialize app :
 
 1. run : npm install
 2. make .env file in the root directory and set property MONGO_URI=mongodb://any mongo url
-3. run : node server.js
+3. run : node index.js
